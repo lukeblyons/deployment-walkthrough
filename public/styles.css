@@ -3,11 +3,11 @@
 }
 
 button {
-    background-color: black;
+    background-color: darkcyan;
     color: white;
     border: none;
-    border-right: 2px solid aqua;
-    border-bottom: 2px solid aqua;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
     padding: 10px 20px;
     font-weight: bold;
 }
